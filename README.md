@@ -70,12 +70,12 @@ Allocate approximately 6–8 GB of memory to Docker Desktop if available.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pulumi-guestbook-monitoring.git
+git clone https://github.com/Badger100/guestbook-monitoring
 
 cd pulumi-guestbook-monitoring
 ```
 
-Replace `YOUR_USERNAME` with the repository owner's GitHub username.
+
 
 ### 2. Create the Kubernetes cluster
 
