@@ -1,0 +1,5 @@
+node_modules/
+.pulumi/
+Pulumi.*.yaml
+.env
+.DS_Store
